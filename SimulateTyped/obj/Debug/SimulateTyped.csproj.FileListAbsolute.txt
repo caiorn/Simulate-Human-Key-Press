@@ -1,0 +1,11 @@
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.csprojAssemblyReference.cache
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.Form1.resources
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.Properties.Resources.resources
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.csproj.GenerateResource.cache
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.csproj.CoreCompileInputs.cache
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\bin\Debug\SimulateTyped.exe
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\bin\Debug\SimulateTyped.pdb
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.exe
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.pdb
+c:\users\caio\source\repos\SimulateTyped\SimulateTyped\bin\Debug\SimulateTyped.exe.config
+C:\Users\Caio\source\repos\SimulateTyped\SimulateTyped\obj\Debug\SimulateTyped.frmTest.resources
